@@ -22,7 +22,7 @@ Each folder contains a self-contained Jupyter Notebook that can be opened and ex
 - Created time-series plots and heatmaps to identify peak periods and seasonal patterns.
 - Create interactive maps to explore call density patterns.
 
-**Skills demonstrated:** datetime manipulation, grouping and aggregation, categorical encoding, multi-axis plotting.
+**Skills demonstrated:** datetime manipulation, grouping and aggregation, categorical encoding, multi-axis plotting, mapping.
 
 ---
 
