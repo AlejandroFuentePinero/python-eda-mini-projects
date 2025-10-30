@@ -20,6 +20,7 @@ Each folder contains a self-contained Jupyter Notebook that can be opened and ex
 - Parsed timestamps into year, month, day, and hour features.
 - Grouped by call reason (EMS, Fire, Traffic) and visualized call distributions.
 - Created time-series plots and heatmaps to identify peak periods and seasonal patterns.
+- Create interactive maps to explore call density patterns.
 
 **Skills demonstrated:** datetime manipulation, grouping and aggregation, categorical encoding, multi-axis plotting.
 
