@@ -24,16 +24,17 @@ Each project folder contains a self-contained Jupyter Notebook that can be opene
 
 **Skills demonstrated:** datetime manipulation, grouping/aggregation, categorical handling, multi-axis plotting, mapping.
 
-#### 911 call geographical volume clustering.
+
 <p align="center">
   <img src="images/map_911.png" width="450">
 </p>
+#### 911 call geographical volume clustering.
 
-#### 911 call volume heatmap showing temporal patterns.
+
 <p align="center">
   <img src="images/heat_911.png" width="450">
 </p>
-
+#### 911 call volume heatmap showing temporal patterns.
 
 ---
 
@@ -47,16 +48,16 @@ Each project folder contains a self-contained Jupyter Notebook that can be opene
 
 **Skills demonstrated:** time-series analysis, correlation analysis, rolling-window methods, visualisation design.
 
-#### Temporal covariation among banks.
+
 <p align="center">
   <img src="images/closing.png" width="600">
 </p>
+#### Temporal covariation among banks.
 
-#### Candlestick plot for the Bank of America in 2015
 <p align="center">
   <img src="images/candle.png" width="600">
 </p>
-
+#### Candlestick plot for the Bank of America in 2015
 ---
 
 ## Technologies & Tools
