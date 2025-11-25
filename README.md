@@ -30,7 +30,7 @@ Each project folder contains a self-contained Jupyter Notebook that can be opene
 **Goal:** Investigate stock price behaviour, volatility, and inter-company relationships.
 
 **Highlights:**
-- Retrieved historical price data using `pandas_datareader`.  
+- Retrieved historical price data.  
 - Computed daily and cumulative returns, moving averages, and rolling statistics.  
 - Explored correlations and co-movement using heatmaps and scatter matrix visualisations.
 
