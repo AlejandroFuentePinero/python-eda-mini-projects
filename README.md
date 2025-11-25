@@ -24,6 +24,15 @@ Each project folder contains a self-contained Jupyter Notebook that can be opene
 
 **Skills demonstrated:** datetime manipulation, grouping/aggregation, categorical handling, multi-axis plotting, mapping.
 
+<p align="center">
+  <img src="images/map_911.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images/heat_911.png" width="600">
+</p>
+
+
 ---
 
 ### 2. Finance Data Analysis
@@ -35,6 +44,14 @@ Each project folder contains a self-contained Jupyter Notebook that can be opene
 - Explored correlations and co-movement using heatmaps and scatter matrix visualisations.
 
 **Skills demonstrated:** time-series analysis, correlation analysis, rolling-window methods, visualisation design.
+
+<p align="center">
+  <img src="images/closing.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images/candle.png" width="600">
+</p>
 
 ---
 
