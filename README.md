@@ -1,4 +1,5 @@
 # Exploratory Data Analysis (EDA) Projects in Python
+## Learning lab: implementations and experiments to consolidate EDA fundamentals.
 
 This repository contains two applied case studies demonstrating complete **Exploratory Data Analysis (EDA)** workflows in Python — from raw data ingestion and cleaning to feature engineering and visualisation.  
 The projects show how to extract insights from diverse datasets using `pandas`, `numpy`, `seaborn`, and `plotly`.
